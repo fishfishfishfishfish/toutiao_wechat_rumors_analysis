@@ -1,0 +1,10 @@
+# zip file
+*.zip
+
+# files
+cleaned_data/
+liwc_res/
+raw_data/
+
+# R proj
+.Rproj.user/
